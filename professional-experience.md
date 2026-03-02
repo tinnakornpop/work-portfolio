@@ -22,10 +22,10 @@ One of the tasks I worked on regularly was updating and maintaining the company'
 
 My responsibilities mainly involved publishing website content, updating pages when necessary, and helping ensure that the website operated correctly on the server environment.
 
-[วางรูป classmethod_website.png ที่นี่]
+![cmth_seminar_list_page](images/cmth_seminar_list_page.png)
 
 Website example  
-https://www.classmethod.co.th/th/seminar-list
+https://www.classmethod.co.th/th/seminar-list  
 (*Content on this page is updated regularly.)
 
 ### Responsibilities
@@ -41,7 +41,7 @@ I participated in a project where an existing web system was migrated from plain
 
 My role in this project mainly involved helping implement new features and adjusting the system so it could work properly under the Laravel framework.
 
-[วางรูป thaisim_form.png ที่นี่]
+![form_thaisim_jp_page](images/form_thaisim_jp_page.png)
 
 Project website  
 https://form.thaisim.jp/form  
@@ -60,7 +60,7 @@ I also participated in a website renewal project aimed at improving both usabili
 
 The work involved migrating the existing system to Laravel and making several improvements to the user interface.
 
-[วางรูป sbcs_website.png ที่นี่]
+![sbcs_page](images/sbcs_page.png)
 
 Project website  
 https://www.sbcs.co.th/th/  
@@ -83,6 +83,8 @@ These activities included writing technical articles about AWS services and assi
 - Wrote technical articles related to AWS and cloud technologies
 - Assisted with introductory AWS training sessions for customers
 - Supported internal teams with basic AWS-related questions when necessary
+
+![cmth_blog_page](images/cmth_blog_page.png)
 
 Articles  
 https://dev.classmethod.jp/author/tinnakorn-maneewong/
