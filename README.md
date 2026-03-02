@@ -5,8 +5,7 @@ Portfolio of web development projects and AWS Cloud experience.
 This repository contains my professional experience, technical skills, and project details related to web development and AWS.
 
 ## Portfolio
-View my full professional experience:
-
+View my full professional experience:  
 [Professional Experience](professional-experience.md)
 
 ## Main Areas
