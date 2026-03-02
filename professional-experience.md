@@ -26,6 +26,7 @@ My responsibilities mainly involved publishing website content, updating pages w
 
 Website example  
 https://www.classmethod.co.th/th/seminar-list
+(*Content on this page is updated regularly.)
 
 ### Responsibilities
 - Updated website content such as announcements and seminar information
@@ -44,7 +45,7 @@ My role in this project mainly involved helping implement new features and adjus
 
 Project website  
 https://form.thaisim.jp/form  
-(Currently the website has been renewed.)
+(*Updated since my involvement.)
 
 ### Work involved
 - Assisted with migrating the system from plain PHP to Laravel
@@ -63,7 +64,7 @@ The work involved migrating the existing system to Laravel and making several im
 
 Project website  
 https://www.sbcs.co.th/th/  
-(Currently the website has been renewed.)
+(*Updated since my involvement.)
 
 ### Work involved
 - Assisted in migrating the website system from plain PHP to Laravel
