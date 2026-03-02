@@ -34,6 +34,24 @@ https://www.classmethod.co.th/th/seminar-list
 - Helped maintain the website environment running on AWS
 - Made small improvements to website layout and functionality when necessary
 
+
+### Website Layout Updates and Improvements
+In addition to maintaining website content, I also helped update certain parts of the website layout when changes were required.
+
+This work mainly involved adjusting page layout and updating visual elements to improve how company information and services were presented.
+
+![cmth_home_page](images/cmth_home_page.png)
+
+Website  
+https://www.classmethod.co.th/  
+(*The content and layout of this page may have changed since my involvement.)
+
+#### Work involved
+- Updated layout elements on the website homepage
+- Adjusted visual components used to present company services
+- Implemented front-end updates using HTML and CSS
+- Assisted in publishing the updated content to the production environment
+
 ---
 
 # Laravel Migration Project
