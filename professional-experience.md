@@ -5,12 +5,11 @@ The purpose of this page is to explain the type of work I have been involved in,
 
 ---
 
-# Software Engineer  
-Software Engineer (Web Development & AWS)
-Classmethod (Thailand) Co., Ltd.
+# Software Engineer (Web Development & AWS)
+Classmethod (Thailand) Co., Ltd.  
 Sep 2020 – Jan 2026
 
-During my time at Classmethod Thailand, I worked mainly on website development and tasks related to AWS cloud environments. My role involved supporting website development, updating website content, and assisting with server operations.
+During my time at Classmethod Thailand, I mainly worked on website development and tasks related to the AWS cloud environment. My role involved supporting website development, updating website content, and assisting with server-related operations.
 
 I was also involved in several other activities such as writing technical articles about AWS, supporting customer training sessions, and assisting internal teams with technical issues.
 
@@ -19,9 +18,9 @@ Although my main focus was web development, my work sometimes required supportin
 ---
 
 # Website Development and Maintenance
-One of my regular responsibilities was updating and maintaining the company's official website. The website is used to publish company information, announcements, and seminar events.
+One of my regular responsibilities was updating and maintaining the company's official website. The website is used to publish official company information, announcements, and seminar events.
 
-My responsibilities mainly involved publishing website content, updating pages when necessary, and helping ensure that the website operated correctly on the server environment.
+My responsibilities mainly involved publishing website content, updating pages when necessary, and helping ensure that the website operated correctly on the server.
 
 ![cmth_seminar_list_page](images/cmth_seminar_list_page.png)
 
@@ -58,7 +57,7 @@ https://www.classmethod.co.th/
 # Laravel Migration Project
 I participated in a project where an existing web system was migrated from plain PHP to the Laravel framework. The goal of this work was to improve the structure of the application and make future maintenance easier.
 
-My role in this project mainly involved helping implement new features and adjusting the system so it could work properly under the Laravel framework.
+My role in this project mainly involved helping implement new features and adjusting the system so it could work properly within the Laravel framework.
 
 ![form_thaisim_jp_page](images/form_thaisim_jp_page.png)
 
@@ -77,7 +76,7 @@ https://form.thaisim.jp/form
 # Corporate Website Renewal Project
 I also participated in a website renewal project aimed at improving both usability and maintainability.
 
-The work involved migrating the existing system to Laravel and making several improvements to the user interface.
+The work involved improving the website structure and making several user interface improvements.
 
 ![sbcs_page](images/sbcs_page.png)
 
