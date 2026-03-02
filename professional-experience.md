@@ -6,7 +6,8 @@ The purpose of this page is to explain the type of work I have been involved in,
 ---
 
 # Software Engineer  
-Classmethod (Thailand) Co., Ltd.  
+Software Engineer (Web Development & AWS)
+Classmethod (Thailand) Co., Ltd.
 Sep 2020 – Jan 2026
 
 During my time at Classmethod Thailand, I worked mainly on website development and tasks related to AWS cloud environments. My role involved supporting website development, updating website content, and assisting with server operations.
@@ -18,7 +19,7 @@ Although my main focus was web development, my work sometimes required supportin
 ---
 
 # Website Development and Maintenance
-One of the tasks I worked on regularly was updating and maintaining the company's official website. The website is used to publish company information, announcements, and seminar events.
+One of my regular responsibilities was updating and maintaining the company's official website. The website is used to publish company information, announcements, and seminar events.
 
 My responsibilities mainly involved publishing website content, updating pages when necessary, and helping ensure that the website operated correctly on the server environment.
 
