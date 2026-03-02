@@ -1,5 +1,5 @@
 # Work Portfolio
-Portfolio of web development work and AWS Cloud knowledge.
+Portfolio of web development projects and AWS Cloud experience.
 
 ## About
 This repository contains my professional work experience, technical skills, and project details related to web development and AWS.
